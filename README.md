@@ -1,2 +1,4 @@
 # quiz-competition-python
-It contains the source code of quiz competition using class and function in python where the user is asked 10 different questions every time related to python and the score is updated accordingly. There is also negative marking in the quiz competition and also the final score is shown after the completion of the game.
+This is a simple quiz competition program written in Python. It allows users to answer questions in True/False and keeps track of their scores. The program is structured using a question bank file (questions.py),
+a file(quiz.py) which contains all the necessary functions to execute the program and a main program file (main.py).
+
